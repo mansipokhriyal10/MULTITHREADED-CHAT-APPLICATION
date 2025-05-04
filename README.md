@@ -1,9 +1,15 @@
 MULTITHREADED CHAT APPLICATION
+
 Company: CodTech IT Solutions Pvt. Ltd
+
 Name: Mansi Pokhriyal
+
 Intern ID: CT08DA549
+
 Domain: Java Programming
+
 Duration: 8 Weeks
+
 Mentor: Neela Santosh
 
 Project Title: Multithreaded Chat Application – Java Client-Server System
@@ -76,3 +82,5 @@ The Multithreaded Chat Application project was a successful implementation of Ja
 
 
 #OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/30acb106-bdd6-498a-9178-385bac7b5663)
